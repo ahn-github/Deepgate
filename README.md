@@ -18,16 +18,16 @@
   
   구성도
   
-                                          +----- MCU(D/L Control) 
-                                          +        |
-   USB3/USB-C -------  USB_Interface  ----+----- FPGA
-                                                   +-------  HDMI_IO 
-                                                   +-------  AUdio(I2S) -- Codec      
-                                                   +-------  GPIO
-                                                   +-------  Camera(Link)
-                                                   +-------  USB(HUB)
-                                                   +-------  Thunderbolt
-                                                   +-------  SDcard_IF
+/                                          +----- MCU(D/L Control) 
+/                                          +        |
+/   USB3/USB-C -------  USB_Interface  ----+----- FPGA
+/                                                   +-------  HDMI_IO 
+/                                                   +-------  AUdio(I2S) -- Codec      
+/                                                   +-------  GPIO
+/                                                   +-------  Camera(Link)
+/                                                   +-------  USB(HUB)
+/                                                   +-------  Thunderbolt
+/                                                   +-------  SDcard_IF
                                                    
                                                    
                                                    
